@@ -6,4 +6,4 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The program successfully performs the removal operation.
+The program achieves the desired output.
